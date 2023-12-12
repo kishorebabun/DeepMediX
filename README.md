@@ -1,1 +1,1 @@
-# DeepMediX ..will be released on demand.
+# DeepMediX ..will be released soon.
